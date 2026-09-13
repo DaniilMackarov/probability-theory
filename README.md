@@ -4,5 +4,6 @@
 ---
 ### Семестр 5
 ---
-[Открыть практику](practice/practice1.ipynb)
+[Открыть практику](practice/practice1.ipynb)  
+
 [Открыть 1 ноутбук](notebooks/notebook1.ipynb)
