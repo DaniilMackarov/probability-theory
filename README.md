@@ -7,3 +7,4 @@
 [Открыть практику](practice/practice1.ipynb)  
 
 [Открыть 1 ноутбук](notebooks/notebook1.ipynb)
+[Открыть 2 ноутбук](notebooks/notebook2.ipynb)
