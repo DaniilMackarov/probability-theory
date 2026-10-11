@@ -9,3 +9,5 @@
 [Открыть 1 ноутбук](notebooks/notebook1.ipynb)
 
 [Открыть 2 ноутбук](notebooks/notebook2.ipynb)
+
+[Открыть 4 ноутбук](notebooks/notebook4.ipynb)
